@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Egg Timer
@@ -25,3 +26,7 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+=======
+# EggTimer-iOS13
+A little sample of code to test conditionals
+>>>>>>> 47f832e32f54f0306e4a2cb5a6a322884f0eb513
